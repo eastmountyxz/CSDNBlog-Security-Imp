@@ -9,7 +9,7 @@
 - [[安全攻防进阶篇] 五.逆向分析之Win32 API获取及加解密目录文件、OllyDbg逆向其原理](https://blog.csdn.net/Eastmount/article/details/107723314)
 - [[安全攻防进阶篇] 六.逆向分析之OllyDbg逆向CrackMe01-02及加壳判断](https://blog.csdn.net/Eastmount/article/details/107777190)
 - [[安全攻防进阶篇] 七.恶意样本检测之编写代码自动提取IAT表、字符串及时间戳溯源](https://blog.csdn.net/Eastmount/article/details/107948592)
-
+- [[安全攻防进阶篇] 八.那些年的熊猫烧香及PE病毒行为机理分析](https://blog.csdn.net/Eastmount/article/details/107776332)
 
 ---
 
